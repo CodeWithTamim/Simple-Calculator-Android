@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="label_equals">=</string>
+    <string name="label_zero">00</string>
+    <string name="label_ac">AC</string>
+    <string name="label_parenthesis">( )</string>
+    <string name="label_percent">%</string>
+    <string name="label_devide">÷</string>
+    <string name="label_seven">7</string>
+    <string name="label_eight">8</string>
+    <string name="label_nine">9</string>
+    <string name="label_multiply">×</string>
+    <string name="label_four">4</string>
+    <string name="label_five">5</string>
+    <string name="label_six">6</string>
+    <string name="label_minus">-</string>
+    <string name="label_one">1</string>
+    <string name="label_two">2</string>
+    <string name="label_three">3</string>
+    <string name="label_plus">+</string>
+    <string name="label_dot">.</string>
+    <string name="label_zero2">0</string>
+</resources>
