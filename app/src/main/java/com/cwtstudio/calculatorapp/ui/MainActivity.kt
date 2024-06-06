@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         binding.btnAc.setOnClickListener {
             binding.txtCalculations.text = ""
             binding.txtResult.text = getString(R.string.label_zero)
+            isParenthesisOpen = false
         }
 
 
